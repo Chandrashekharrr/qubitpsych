@@ -30,7 +30,7 @@ export default function Navbar() {
           <div className="circle w-10 h-10 border-0 border-gray-500 rounded-full flex justify-center items-center text-center transition-all duration-1000">
                         <div className="dot w-1 h-1 bg-[#070f36] rounded-full transition-all duration-1000"></div>
 
-            <div className="plus text-4xl rotate-45 w-full h-full flex justify-center items-center ml-1 mb-2 transition-all duration-1000">
+            <div className="plus text-4xl rotate-45 w-full h-full flex justify-center items-center ml-1  transition-all duration-1000">
               +
             </div>
                         <div className="dot w-1 h-1 bg-[#070f36] rounded-full transition-all duration-1000"></div>
